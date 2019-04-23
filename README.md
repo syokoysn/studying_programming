@@ -2,7 +2,7 @@
 
  # Studying Proguramming Language
 
-## use  language
+## Target  language
 
 - python 
 - C++ 
