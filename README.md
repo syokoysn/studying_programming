@@ -16,4 +16,4 @@
 ## problem
 
 1. Hello world
-2. 
+2. Euclidean algorithm
