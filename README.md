@@ -1,6 +1,6 @@
  
 
- # Study proguramming language
+ # Studying Proguramming Language
 
 ## use  language
 
