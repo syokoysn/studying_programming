@@ -15,5 +15,6 @@
 
 ## problem
 
-1. Hello world
-2. Euclidean algorithm
+1. Hello World
+2. Euclidean Algorithm
+3. Euclidean Distance
