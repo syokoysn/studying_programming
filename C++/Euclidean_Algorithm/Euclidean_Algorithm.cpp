@@ -12,4 +12,4 @@ int main()
 {
     cout << euclidean_algoritd(1053,234)<< endl;
     return 0;
-}
+}   
