@@ -20,3 +20,4 @@
 3. Euclidean Distance
 4. Cosine Similarity
 5. Sieve of Eratosthenes
+6. Bubble Sort
